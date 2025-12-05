@@ -67,6 +67,18 @@ You can find the setup SQL here:
 
 ---
 
+## 🎮 Game Screenshots
+
+| Start Screen | Gameplay (Correct Guess) | Gameplay (Incorrect Guess) |
+|-------------|--------------------------|----------------------------|
+| ![](docs/start.png) | ![](docs/gameplay-correct.png) | ![](docs/gameplay-wrong.png) |
+
+| Gameplay — Round Start | Final Score / Leaderboard |
+|----------------------|--------------------------|
+| ![](docs/gameplay-round1.png) | ![](docs/gameover.png) |
+
+---
+
 ## 🚀 How to Run Locally
 ### Requirements
 - Local web server (e.g., XAMPP, WAMP, MAMP)
